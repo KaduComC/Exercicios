@@ -17,9 +17,9 @@ public class Exer2 {
         if (IMC < 20) {
             System.out.println("Abaixo do peso");
         } else if (IMC >= 20 && IMC < 25) {
-            System.out.println("Peso normal");
+            System.out.println("Normal");
         } else if (IMC >= 25 && IMC < 30) {
-            System.out.println("Sobre peso");
+            System.out.println("Sobrepeso");
         } else if (IMC >= 30 && IMC < 40) {
             System.out.println("Obeso");
         } else if (IMC >= 40) {
